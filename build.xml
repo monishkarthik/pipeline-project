@@ -8,8 +8,6 @@
 <property name="src.dir" location="src" />
 <property name="build.dir" location="bin" />
 <property name="dist.dir" location="dist" />
-
-
 <path id="class.path">
 <pathelement location="./lib/junit-4.10.jar" />
 <pathelement location="./bin" />
